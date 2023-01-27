@@ -4,7 +4,7 @@ from copy import deepcopy
 from typing import Dict, List
 
 from .errors import ConsoleSizeError
-import consoledraw.utils as utils
+import wallace_libs.utils as utils
 
 
 class Console:

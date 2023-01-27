@@ -2,7 +2,7 @@ from setuptools import setup
 
 
 setup(
-    name="consoledraw",
+    name="wallace_libs",
     version="2.4.2",
     description="A python module to update the console without flashing.",
     long_description_content_type="text/markdown",
@@ -11,5 +11,5 @@ setup(
     author_email="matthiasx95@gmail.com",
     license="MIT",
     python_requires=">=3.6",
-    packages=["consoledraw"],
+    packages=["wallace_libs"],
 )
